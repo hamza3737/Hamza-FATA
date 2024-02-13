@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgba(137, 9, 9, 0);
+    color: rgb(0, 0, 0);
+}
+
+h2
+{
+    font-size: 37px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-display:initial
+}
+
+p
+{
+    margin-left: 1 em;
+}
+
+em
+{
+    border: 3px solid rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+a
+{
+    border: 3px solid rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+

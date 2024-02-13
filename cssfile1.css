@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgba(54, 170, 39, 0.549);
+    color: white;
+}
+
+h1
+{
+    font-size: 15px;
+}
+
+p
+{
+    margin-left: 4em;
+}
+
+strong
+{
+    border: 3px solid rgba(77, 141, 77, 0.74);
+    color: rgba(0, 0, 0, 0.294);
+    background-color: white;
+}
+
